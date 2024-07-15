@@ -10,12 +10,16 @@
                             4.Demo Video "Coming Soon"
                             5.R Studio Project https://www.loom.com/share/c9f54b032cc84db6864eadf157c1c796?sid=161e2ba7-3064-4839-8d2a-9f67dcc8e793
                               We dove into fuel efficiency modeling using R's tidyverse. Examining the popular MPG dataset, we explored the relationship between engine size, car class, and fuel efficiency.
+
                               Tidyverse Unveils Insights:   Using ggplot and labs, we created informative visualizations. Facet_wrap (a new tool for me!) proved valuable, allowing us to see how highway MPG
                               varied across car classes (1999-2008).
+
                               Findings and Surprises:  Larger engines, as expected, led to lower MPG. Compact cars were most efficient, followed by surprisingly inefficient 2-seaters. Weight didn't seem to
                               be as significant a factor as engine size in this dataset.
+
                               Limitations & Next Steps:   The data's limited timeframe (1999-2008) and scope (not all models/manufacturers) are limitations. Future explorations could compare city vs. highway MPG,
                               investigate the impact of fuel type, transmission, and drive type, or utilize R's machine learning for MPG prediction based on various factors.
+
                               Conclusion:    This project successfully explored fuel efficiency with tidyverse. We confirmed engine size's impact and identified variations across car classes. Addressing limitations
                               and pursuing further analyses can unlock a deeper understanding of fuel efficiency in the automotive world.
                                 
